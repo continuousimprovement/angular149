@@ -1,3 +1,16 @@
+thanks to little pootis 
+=======================
+
+```
+npm config set prefix '~/.npm-global'
+And then add this to your path:
+  
+export PATH="$PATH:$HOME/.npm-global/bin"
+now you can:
+npm install -g @angular/cli
+```
+
+
 # Myangular149
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.

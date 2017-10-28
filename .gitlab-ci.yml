@@ -9,6 +9,7 @@ cache:
 
 pages:
   script:
+    - npm --version
     - npm run generate
   artifacts:
     paths:
